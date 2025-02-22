@@ -1,3 +1,13 @@
+
+<h1 align="center">
+  <br>
+  下面截图与一些文字！只是 旧代码内容！ 仅作为 介绍与解释意思～
+</h1>
+
+
+
+---
+
 <!-- 图片部分 -->
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 100%; overflow: auto; gap: 20px;">
     <img src="https://github.com/pxx917144686/Surge_pxx/blob/main/x/Surge++_0.5_0.png?raw=true" width="3000" />
